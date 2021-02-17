@@ -3,9 +3,7 @@
 This course consisted of five 90-minute lecutres followed by 90-minute lab sessions. The goal is to introduce attendees to concepts in time series modeling, with a particular focus on syndromic surveillance using routine health systems data. The contents available here include lecture slides and materials for the lab sessions.
 
 ### Course preparation
-**Instructions**: If you will participate in the lab sessions. Please download both R and RStudio software. The instructions are below.
-- [Instructions (Windows)](materials/)
-- [Instructions (Mac)](materials/)
+**Download R and RStudio**: If you plan to participate in the lab sessions, download both R and RStudio (free statistical software) prior to the first session on March 2. Instructions for both Windows and Mac users are available [online here](https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/) (please ignore the third step about SDSFoundations Package). You can also watch [this video](https://www.youtube.com/watch?v=cX532N_XLIs&ab_channel=MarinStatsLectures-RProgramming%26Statistics) for step by step download instructions.
 
 ### Session 1 (March 2): Indicator choices and data visualization 
 - [Slides](slides/)
@@ -18,7 +16,7 @@ This course consisted of five 90-minute lecutres followed by 90-minute lab sessi
 - [Data](data/)
 
 ### Session 3 (March 16): Fitting time series models, Part 2 
-- [Slides](slides/)
+- [Slides](slides/)S
 - [Exercise](exercise/)
 - [Data](data/)
 

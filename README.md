@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# CIHR Training Course: Time series modeling methods for syndromic surveillance
 
-You can use the [editor on GitHub](https://github.com/isabelfulcher/CIHR_training_course/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This course consisted of five 90-minute sessions to train country site leads affiliated with the CIHR Grant for syndromic surveillance in seven countries. The contents available here include lecture slides and lab materials.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course preparation
+**Instructions**: Please download both R and RStudio software. Instructions below.
+- [Instructions (Windows)](materials/)
+- [Instructions (Mac)](materials/)
 
-### Markdown
+### Session 1 (March 2): Indicator choices and data visualization 
+- [Slides](slides/)
+- [Exercise](exercise/)
+- [Data](data/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Session 2 (March 9): Fitting time series models, Part 1 
+- [Slides](slides/)
+- [Exercise](exercise/)
+- [Data](data/)
 
-```markdown
-Syntax highlighted code block
+### Session 3 (March 16): Fitting time series models, Part 2 
+- [Slides](slides/)
+- [Exercise](exercise/)
+- [Data](data/)
 
-# Header 1
-## Header 2
-### Header 3
+### Session 4 (March 23): Getting and cleaning the data
+- [Slides](slides/)
+- [Exercise](exercise/)
+- [Data](data/)
 
-- Bulleted
-- List
+### Session 5 (March 30): Data visualization, Part 2
+- [Slides](slides/)
+- [Exercise](exercise/)
+- [Data](data/)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isabelfulcher/CIHR_training_course/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

@@ -1,4 +1,4 @@
-# CIHR Training Course: Time series modeling methods for syndromic surveillance
+# Time series modeling methods for syndromic surveillance
 
 This course consisted of five 90-minute lecutres followed by 90-minute lab sessions. The goal is to introduce attendees to concepts in time series modeling, with a particular focus on syndromic surveillance using routine health systems data. The contents available here include lecture slides and materials for the lab sessions.
 

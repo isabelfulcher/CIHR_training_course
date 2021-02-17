@@ -16,7 +16,7 @@ This course consisted of five 90-minute lecutres followed by 90-minute lab sessi
 - [Data](data/)
 
 ### Session 3 (March 16): Fitting time series models, Part 2 
-- [Slides](slides/)S
+- [Slides](slides/)
 - [Exercise](exercise/)
 - [Data](data/)
 

@@ -7,8 +7,8 @@ This course consisted of five 90-minute lecutres followed by 90-minute lab sessi
 
 ### Session 1 (March 2): Indicator choices and data visualization 
 - [Slides](slides/CIHR_SyndromicSurveillanceCourse_lecture1_v02.pdf)
-- [Exercise](exercises/session1_handout.html)
-- [Data](data/session_1/session1_data.zip)
+- [Lab materials](materials/session1_03-02.zip)
+- [Video (to be posted)]()
 
 ### Session 2 (March 9): Fitting time series models, Part 1 
 

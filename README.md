@@ -9,7 +9,7 @@ This course consisted of five 90-minute lecutres followed by 90-minute lab sessi
 - [Slides](slides/CIHR_SyndromicSurveillanceCourse_lecture1_v02.pdf)
 - [Lab materials](materials/session1_03-02.zip)
 - [Video - Lecture](https://www.youtube.com/watch?v=vo_MFsIRBe4)
-- [Video - R Tutorial] (https://www.youtube.com/watch?v=AeWJ2T2Zuiw)
+- [Video - R Tutorial](https://www.youtube.com/watch?v=AeWJ2T2Zuiw)
 
 ### Session 2 (March 9): Fitting time series models, Part 1 
 

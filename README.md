@@ -13,6 +13,7 @@ This course consisted of five 90-minute lecutres followed by 90-minute lab sessi
 
 ### Session 2 (March 9): Fitting time series models, Part 1 
 - [Slides](slides/CIHR Course - Week 2 - Time Series (no code).pdf)
+
 ### Session 3 (March 16): Fitting time series models, Part 2 
 
 ### Session 4 (March 23): Getting and cleaning the data

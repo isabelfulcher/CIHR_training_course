@@ -20,7 +20,7 @@ This course consisted of five 90-minute lecutres followed by 90-minute lab sessi
 - [Lab materials](materials/session2_03-09.zip)
 - [Handout](https://docs.google.com/presentation/d/1xSLggegZW1SDZBWTop-swGuqrGFYlOByrD7X2lNdWRs/edit#slide=id.p)
 - [Video - Lecture](https://www.youtube.com/watch?v=JWJhww1mOOE)
-
+- [Video - R Tutorial](https://www.youtube.com/watch?v=CRAE1zARHpY)
 
 ### Session 3 (March 16): Fitting time series models, Part 2 
 

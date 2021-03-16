@@ -12,12 +12,14 @@ This course consisted of five 90-minute lecutres followed by 90-minute lab sessi
 ### Session 1 (March 2): Indicator choices and data visualization 
 - [Slides](slides/CIHR_SyndromicSurveillanceCourse_lecture1_v02.pdf)
 - [Lab materials](materials/session1_03-02.zip)
+- [Lab solutions](solutions/session1_handout_solutions.pdf)
 - [Video - Lecture](https://www.youtube.com/watch?v=vo_MFsIRBe4)
 - [Video - R Tutorial](https://www.youtube.com/watch?v=AeWJ2T2Zuiw)
 
 ### Session 2 (March 9): Fitting time series models, Part 1 
 - [Slides](slides/CIHR_Course_Week2_Time_Series_no_code.pdf)
 - [Lab materials](materials/session2_03-09.zip)
+- [Lab solutions](solutions/session2_handout_solutions.pdf)
 - [Handout](https://docs.google.com/presentation/d/1xSLggegZW1SDZBWTop-swGuqrGFYlOByrD7X2lNdWRs/edit#slide=id.p)
 - [Video - Lecture](https://www.youtube.com/watch?v=JWJhww1mOOE)
 - [Video - R Tutorial](https://www.youtube.com/watch?v=CRAE1zARHpY)
@@ -25,6 +27,7 @@ This course consisted of five 90-minute lecutres followed by 90-minute lab sessi
 ### Session 3 (March 16): Fitting time series models, Part 2 
 - [Slides](slides/CIHR_Course_Week3_Time_Series.pdf)
 - [Lab materials](materials/session3_03-16.zip)
+- [Lab solutions](solutions/session2_handout_solutions.pdf) *Note: mistakes in handout were corrected in solutions*
 
 ### Session 4 (March 23): Getting and cleaning the data
 

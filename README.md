@@ -28,6 +28,8 @@ This course consisted of five 90-minute lecutres followed by 90-minute lab sessi
 - [Slides](slides/CIHR_Course_Week3_Time_Series.pdf)
 - [Lab materials](materials/session3_03-16.zip)
 - [Lab solutions](solutions/session3_handout_solutions.pdf) *Note: mistakes in handout were corrected in solutions*
+- [Video - Lecture]()
+- [Video - R Tutorial](https://www.youtube.com/watch?v=mThIcj_tFDE)
 
 ### Session 4 (March 23): Getting and cleaning the data
 

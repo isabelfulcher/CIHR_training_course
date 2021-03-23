@@ -32,6 +32,8 @@ This course consisted of five 90-minute lecutres followed by 90-minute lab sessi
 - [Video - R Tutorial](https://www.youtube.com/watch?v=mThIcj_tFDE)
 
 ### Session 4 (March 23): Getting and cleaning the data
+- [Slides](slides/CIHR_Course_Week4_Data_Cleaning.pdf)
+- [Lab materials](materials/session4_03-23.zip)
 
 ### Session 5 (March 30): Data visualization, Part 2
 

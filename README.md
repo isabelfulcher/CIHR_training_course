@@ -38,7 +38,7 @@ This course is co-taught by Bethany Hedt-Gauthier (Harvard Medical School), Mich
 ### Session 4 (March 23): Getting and cleaning the data
 - [Slides](slides/CIHR_Course_Week4_Data_Cleaning.pdf)
 - [Lab materials](materials/session4_03-23.zip)
-- [Video - Lecture]()
+- [Video - Lecture](https://www.youtube.com/watch?v=3U-4bkyNGMI)
 - [Video - R Tutorial]( https://youtu.be/NnQUPzFMwvU )
 ### Session 5 (March 30): Data visualization, Part 2
 

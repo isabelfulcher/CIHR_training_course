@@ -40,7 +40,10 @@ This course is co-taught by Bethany Hedt-Gauthier (Harvard Medical School), Mich
 - [Lab materials](materials/session4_03-23.zip)
 - [Video - Lecture](https://www.youtube.com/watch?v=3U-4bkyNGMI)
 - [Video - R Tutorial]( https://youtu.be/NnQUPzFMwvU )
+
 ### Session 5 (March 30): Data visualization, Part 2
+- [Slides](slides/CIHR_Course_Week5_Data_Viz.pdf)
+- [Lab materials](materials/session5_03-30.zip)
 
 
 

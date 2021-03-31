@@ -45,7 +45,7 @@ This course is co-taught by Bethany Hedt-Gauthier (Harvard Medical School), Mich
 - [Slides](slides/CIHR_Course_Week5_Data_Viz.pdf)
 - [Lab materials](materials/session5_03-30.zip)
 - [Video - Lecture](https://youtu.be/ZMR1iHMk8EQ)
-- [Video - R Tutorial]()
+- [Video - R Tutorial](https://youtu.be/Cwq63nQ26sw)
 
 
 

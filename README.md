@@ -13,6 +13,11 @@ This course is co-taught by Bethany Hedt-Gauthier (Harvard Medical School), Mich
 - [Cheatsheet: ggplot2](https://rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 - [Cheatsheet: Data manipulation in R](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Tidyverse+Cheat+Sheet.pdf)
 
+### Supplemental course materials for "Building capacity for COVID-19 Surveillance: A Statistics Course for Health Officials in Seven Low- and Middle-Income Countries"
+- [Deidentified data and preliminary results](Survey_Responses.xlsx)
+- [Example code for results and figures](CIHR_Training_Course_Survey_Responses_Summary_v4.R)
+- [All figures](cihr_course_tables_figures_v06.docx)
+
 ### Session 1 (March 2): Indicator choices and data visualization 
 - [Slides](slides/CIHR_SyndromicSurveillanceCourse_lecture1_v02.pdf)
 - [Lab materials](materials/session1_03-02.zip)

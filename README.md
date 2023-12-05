@@ -16,7 +16,7 @@ This course is co-taught by Bethany Hedt-Gauthier (Harvard Medical School), Mich
 ### Supplemental course materials for "Building capacity for COVID-19 Surveillance: A Statistics Course for Health Officials in Seven Low- and Middle-Income Countries"
 - [Deidentified data and preliminary results](paper_supplement/Survey_Responses.xlsx)
 - [Example code for results and figures](paper_supplement/CIHR_Training_Course_Survey_Responses_Summary_v4.R)
-- [All figures](paper_supplement/cihr_course_tables_figures_v06.docx)
+- [All figures](paper_supplement/cihr_course_tables_figures_v7.docx)
 
 ### Session 1 (March 2): Indicator choices and data visualization 
 - [Slides](slides/CIHR_SyndromicSurveillanceCourse_lecture1_v02.pdf)
